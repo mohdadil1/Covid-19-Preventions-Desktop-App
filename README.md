@@ -1,2 +1,13 @@
 # Covid-19-Preventions-Desktop-App
-Implement social distancing detector and mask detector using OpenCV(Python), Deep Learning. It can monitor the same in Real-Time using live video stream/IP camera in OpenCV.  Main Features  Social distancing detector  Accept feed from live cam. Safe distance should be entered by the user (GUI). Counting the number of people in real-time. Sending an alert(audio) if the people are way over the social distancing limits. Mask detector  Accept feed from live cam. User is able to switch between mask detection and social distancing detector
+Desktop Application for Real-Time Social Distancing and Mask Detection using OpenCV, Deep Learning, and Python. This application monitors live video or IP camera feeds and allows switching between social distancing and mask detection modes. A user-friendly GUI enables easy interaction and configuration
+Key Features:
+Social Distancing Detector:
+
+Accepts feed from live camera or IP stream.
+Allows the user to set a safe distance threshold via GUI.
+Counts the number of people in real-time and checks distances.
+Triggers an audio alert if the social distancing limit is breached.
+Mask Detector:
+
+Detects whether individuals are wearing masks using a pre-trained model.
+Can switch between mask detection and social distancing monitoring.
