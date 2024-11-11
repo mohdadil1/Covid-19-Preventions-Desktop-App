@@ -15,7 +15,7 @@ Can switch between mask detection and social distancing monitoring.
 
 ![The main window of this application](images/S)
 ![Face Mask Detection in webcam stream](https://github.com/mohdadil1/Covid-19-Preventions-Desktop-App/blob/fd8d06bcb17eabe0454cbd890d07aaad0adbc6ee/maskweb.png)
-![ No Mask ](path/to/image)
+![ No Mask ](https://github.com/mohdadil1/Covid-19-Preventions-Desktop-App/blob/befed6eb22c787f6e9c2a484f77f8b21d936d213/images/Screenshot%202024-11-12%20023843.png)
 ![Face Mask Detection with images](path/to/image)
 ![Social Distance Detection in Webcam stream](path/to/image)
 ![Social Distance in Video ](path/to/image)
