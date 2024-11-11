@@ -13,7 +13,7 @@ Triggers an audio alert if the social distancing limit is breached.
 Detects whether individuals are wearing masks using a pre-trained model.
 Can switch between mask detection and social distancing monitoring.
 
-![The main window of this application](path/to/image)
+![The main window of this application](images/Screenshot 2024-11-12 023639.png)
 ![Face Mask Detection in webcam stream](path/to/image)
 ![ No Mask ](path/to/image)
 ![Face Mask Detection with images](path/to/image)
