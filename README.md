@@ -14,7 +14,7 @@ Detects whether individuals are wearing masks using a pre-trained model.
 Can switch between mask detection and social distancing monitoring.
 
 ![The main window of this application](images/S)
-![Face Mask Detection in webcam stream](images/maskweb.png)
+![Face Mask Detection in webcam stream](https://github.com/mohdadil1/Covid-19-Preventions-Desktop-App/blob/fd8d06bcb17eabe0454cbd890d07aaad0adbc6ee/maskweb.png)
 ![ No Mask ](path/to/image)
 ![Face Mask Detection with images](path/to/image)
 ![Social Distance Detection in Webcam stream](path/to/image)
